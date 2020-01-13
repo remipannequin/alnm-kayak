@@ -1,0 +1,34 @@
+<footer class="site-footer h-card">
+  <data class="u-url" href="{{ "/" | relative_url }}"></data>
+
+  <div class="wrapper">
+
+    <div class="footer-col-wrapper">
+      <div class="footer-col">
+        <img src="/assets/images/logotype.png" >
+      </div>
+      <div class="footer-col one-half">
+        <h2 class="footer-heading">{{ site.longtitle | escape }}</h2>
+        <ul class="contact-list">
+          <li class="p-name">{{ site.tel | escape }}</li>
+          {%- if site.email -%}
+          <li><a class="u-email" href="mailto:{{ site.email }}">{{ site.email }}</a></li>
+          {%- endif -%}
+          <li>{{ site.postal }}</li>
+          <li>N° SIRET&nbsp;: {{ site.siret | escape }}</li>
+          <li>Club FFCK  {{ site.ffck | escape }}</li>
+          <li>Code APE&nbsp;: {{ site.ape | escape }}</li>
+          <li>Agrément DRDJSCS&nbsp;: {{ site.drdjscs | escape }}</li>
+          <li>Code EAPS&nbsp;: {{ site.eaps | escape }}</li>
+        </ul>
+      </div>
+    </div>
+    <div align="center" style='width:100%;margin-left:auto;margin-right:auto;'>
+      <div class="footer-col"><a href="https://www.ffck.org"><img src="assets/images/logo_ffck.png" height=100></a></div>
+      <div class="footer-col"><a href="http://www.neuves-maisons.fr/"><img src="assets/images/logo_nm.png" height=100></div>
+      <div class="footer-col"><a href="https://www.cc-mosellemadon.fr"><img src="assets/images/logo_ccmm.png" height=100></div>
+      <div class="footer-col"><a href="http://www.meurthe-et-moselle.fr/"><img src="assets/images/logo_54.png" height=100></div>
+    </div>
+  </div>
+</footer>
+

@@ -1,0 +1,20 @@
+<div  id="{{ include.name }}">
+<script>
+function getSelected() {
+    var data = [{% for p in include.data %} "{{p}}"{%if forloop.last == false %},{% endif %} {% endfor %}];
+    var selected = Math.floor(Math.random() * Math.floor(data.length));
+    return data[selected];
+}
+
+var createImgElement = function(impath, targetId){
+    //create the img element
+    var img = document.createElement('img');
+    //set the source of the image
+    img.src = impath;
+    //add the image to a specific element
+    document.getElementById(targetId).appendChild(img);
+}
+
+createImgElement(getSelected(), "{{ include.name }}");
+</script>
+</div>
