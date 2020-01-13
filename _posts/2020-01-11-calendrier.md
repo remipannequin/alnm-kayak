@@ -4,7 +4,7 @@ title: Calendrier Prévisionnel 2020
 ---
 
 
-Date | Type | Libellé | Niveau | Adhérents concernés |
+**Date** | **Type** | **Libellé** | **Niveau** | **Adhérents concernés** |
 12 janv. | Piscine | Manche 1: Épinal | Régional | P/B/M
 12 janv. | Manifestation | Loto ALNM |  | Tous
 26 janv. | Piscine | Manche 2 : Toul | Régional | P/B/M

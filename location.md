@@ -26,7 +26,7 @@ Le retour est assuré en camionnette 9 places.
 
 Les paiements devront se faire en espèces, par chèque ou chèques vacances.
 
-*Attention, nous ne sommes pas en mesure d'accepter les paiements par carte bancaire*.
+**Attention, nous ne sommes pas en mesure d'accepter les paiements par carte bancaire.**
 
 
 |:-------------- |:----:|
