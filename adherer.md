@@ -5,12 +5,12 @@ title: Adhérer
 
 ![une photo de groupe](assets/images/groupe2.jpg)
 
-Pour nous rejoindre, la méthodes la plus simple est de nous contacter sur 
+Pour nous rejoindre, la méthode la plus simple est de nous contacter sur 
 [Facebook](https://fr-fr.facebook.com/pages/alnm-section-kayak/138730189506306), mais vous pouvez 
 aussi tout simplement venir au club le samedi après-midi, en début ou en fin de 
 séance (13h30 ou 17h).
 
-Les inscriptions sont valable sur une année civile (de janvier à décembre); mais 
+Les inscriptions sont valablessur une année civile (de janvier à décembre); mais 
 il est possible de commencer en septembre, ou en cours d'année.
 
 Quels sont les modalités d'inscription ?

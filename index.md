@@ -17,8 +17,8 @@ Les événements, photos et vidéos, et toute l'actualité du club est à retrou
 [facebook](https://fr-fr.facebook.com/pages/alnm-section-kayak/138730189506306).
 
 Composé uniquement de bénévoles, l’ALNM-CK pratique aussi bien les activités de compétition que 
-de loisirs, de l'initiation sur la Moselle et le Madon jusqu'aux championnats de France. Nous 
+de loisir, de l'initiation sur la Moselle et le Madon jusqu'aux championnats de France. Nous 
 cherchons à faire découvrir aux plus jeunes (poussins/benjamins/minimes) l'ensemble des 
-disciplines du canoë-kayak. Pour les confirmés, les activité du clubs sont plus focalisées sur
-le free-style et les activités d'eau vives en rivière naturelle et en bassin aménagé.
+disciplines du canoë-kayak. Pour les confirmés, les activités du club sont plus focalisées sur
+le free-style et les activités d'eau-vive en rivière naturelle et en bassin aménagé.
 

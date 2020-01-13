@@ -5,9 +5,9 @@ title: Location
 
 ### Envie d'un moment de détente, d'aventure et de convivialité ?
 
-ALNM Canoë-Kayak vous propose des parcours à la journée, en location libre sans encadrement. Dans le cadre 
-sauvage et calme des boucles de la Moselle, à partir de Pont st Vincent, vous évoluerez selon vos envies 
-en toute sécurité.
+ALNM Canoë-Kayak vous propose des parcours à la journée, en location libre sans encadrement. 
+Dans le cadre sauvage et calme des boucles de la Moselle, à partir de Pont st Vincent, vous 
+évoluerez selon vos envies en toute sécurité.
 
 ![Balade sur l'eau](assets/images/balade.jpg)
  
@@ -24,7 +24,7 @@ Le retour est assuré en camionnette 9 places.
 
 ### Tarifs
 
-Les paiements devront se faire en espèces, par chèque ou chèque vacance.
+Les paiements devront se faire en espèces, par chèque ou chèques vacances.
 
 *Attention, nous ne sommes pas en mesure d'accepter les paiements par carte bancaire*.
 
