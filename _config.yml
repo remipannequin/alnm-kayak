@@ -18,6 +18,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
+lang: fr-FR
 title: ALNM Canoë-Kayak
 longtitle: Amicale Laïque de Neuves-Maisons section Canoë Kayak
 email: presidence.alnmck@gmail.com
