@@ -1,4 +1,4 @@
-<div  id="{{ include.name }}">
+<p  id="{{ include.name }}">
 <script>
 function getSelected() {
     var data = [{% for p in include.data %} "{{p}}"{%if forloop.last == false %},{% endif %} {% endfor %}];
@@ -17,4 +17,4 @@ var createImgElement = function(impath, targetId){
 
 createImgElement(getSelected(), "{{ include.name }}");
 </script>
-</div>
+</p>
