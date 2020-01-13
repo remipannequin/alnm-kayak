@@ -16,6 +16,9 @@ L’ALNM Canoë Kayak est un club de canoë-kayak, situé dans la région de Nan
 Les événements, photos et vidéos, et toute l'actualité du club est à retrouver sur notre page 
 [facebook](https://fr-fr.facebook.com/pages/alnm-section-kayak/138730189506306).
 
+Envie d'un moment de détente, d'aventure et de convivialité ? Profitez de notre offre de 
+[location](location.html) !
+
 Composé uniquement de bénévoles, l’ALNM-CK pratique aussi bien les activités de compétition que 
 de loisir, de l'initiation sur la Moselle et le Madon jusqu'aux championnats de France. Nous 
 cherchons à faire découvrir aux plus jeunes (poussins/benjamins/minimes) l'ensemble des 

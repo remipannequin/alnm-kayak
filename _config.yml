@@ -41,7 +41,6 @@ banners:
 # Build settings
 
 header_pages:
-  - index.md
   - location.md
   - adherer.md
   
