@@ -10,7 +10,7 @@ Pour nous rejoindre, la méthode la plus simple est de nous contacter sur
 aussi tout simplement venir au club le samedi après-midi, en début ou en fin de 
 séance (13h30 ou 17h).
 
-Les inscriptions sont valablessur une année civile (de janvier à décembre); mais 
+Les inscriptions sont valables sur une année civile (de janvier à décembre); mais 
 il est possible de commencer en septembre, ou en cours d'année.
 
 Quels sont les modalités d'inscription ?
