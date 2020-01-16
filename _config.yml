@@ -26,7 +26,7 @@ tel: 06 82 18 02 62
 description: "Loisir, compétition, location sur la moselle en saison"
 postal: "61 Rue Aristide Briand, 54550 Pont-Saint-Vincent"
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "alnm-kayak.com" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://alnm-kayak.com" # the base hostname & protocol for your site, e.g. http://example.com
 siret: "78334798200010"
 ffck: "5409"
 ape: 9312Z
