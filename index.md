@@ -6,8 +6,6 @@ layout: home
 title: Bienvenue
 ---
 
-{% include covid.html %}
-
 {% include random.html name="wavebanner" data=site.banners %}
 
 
