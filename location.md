@@ -3,8 +3,6 @@ layout: page
 title: Location
 ---
 
-{% include covid.html %}
-
 ### Envie d'un moment de détente, d'aventure et de convivialité ?
 
 ALNM Canoë-Kayak vous propose des parcours à la journée, en location libre sans encadrement. 
