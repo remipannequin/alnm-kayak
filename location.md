@@ -30,8 +30,8 @@ Les paiements devront se faire en espèces, par chèque ou chèques vacances.
 
 
 |:-------------- |:----:|
-Bateau monoplace | 16€  |
-Bateau biplace   | 26€  |
+Bateau monoplace | 17€  |
+Bateau biplace   | 27€  |
 
 ### Infos pratiques
 

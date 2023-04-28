@@ -14,14 +14,15 @@ Les inscriptions sont valables sur une année civile (de janvier à décembre); 
 il est possible de commencer en septembre, ou en cours d'année.
 
 Quels sont les modalités d'inscription ?
- * Il faut savoir nager 25 m.
- * Avoir 10 ans minimum.
+ * Il faut [savoir nager 25m et pouvoir s'immerger](assets/docs/aisance_aquatique.pdf)
+ * Avoir 9 ans minimum.
 
 Il faudra fournir les documents suivant :
- * Un certificat médical de non contre-indication à la pratique du kayak.
+ * Le questionnaire de santé: [pour les mineurs](assets/docs/QS_Sport_mineurs.pdf) et [pour les majeurs](assets/docs/QS_Sport_majeur.pdf)
+ * Si besoin, un [certificat médical](assets/docs/Modele-certificat-médical.pdf) de non contre-indication à la pratique du kayak.
  * La [fiche d'inscription](assets/docs/adhesion.pdf) remplie et signée.
 
-### Cotisation 2020 :
+### Cotisation 2023 :
 
 La cotisation inclue la licence FFCK et l'adhésion au club.
 
