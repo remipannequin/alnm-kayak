@@ -27,7 +27,7 @@ Il faudra fournir les documents suivant :
 La cotisation inclue la licence FFCK et l'adhésion au club.
 
 |:------- |:---:|
- Adultes   | 110&nbsp;€ |
+ Adultes   | 120&nbsp;€ |
  Jeunes (moins de 18 ans) | 90&nbsp;€ |
 
 ### Infos pratiques
@@ -37,6 +37,9 @@ nous vous proposons une formule carte découverte&nbsp;; vous venez en début de
 (voir sur facebook, ou nous contacter) avec l'équipement adéquat (maillot de bain,
  vieilles chaussures (sans lacet), k-way, serviette) pour naviguer, et c'est parti !
 Pas besoin de rendez-vous, il suffit d'être à l'heure.
+
+Si vous voulez commencer pendant la période hivernale (de novembre à mars), vous
+aurez la possibilité de faire un essai en piscine.
 
 Pour tout renseignement, n'hésitez pas à nous contacter.
 
